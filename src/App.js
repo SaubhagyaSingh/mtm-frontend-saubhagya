@@ -4,7 +4,7 @@ import Manager from './Pages/Manager';
 function App() {
   return (
     <div className="App">
-      <h1 className='heading'>Itenary Planner</h1>
+      <h1 className='heading'>Itinerary Planner</h1>
     <Manager/>
     </div>
   );
